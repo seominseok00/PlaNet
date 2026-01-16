@@ -1,0 +1,4 @@
+torch
+safety-gymnasium
+opencv-python
+tqdm
